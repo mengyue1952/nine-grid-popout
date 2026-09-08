@@ -2,6 +2,8 @@
 
 一个用于 Codex 的九宫格突破人物合成技能。它将六张照片排成固定九宫格，并把第1张照片的透明人物抠像放在最上层；默认人物比例为原始抠像的 120%，以 P=T 规则精确定位。
 
+第一次使用可直接阅读：[冲出九宫格照片简版教程](QUICKSTART.md)。
+
 ## 功能
 
 - 固定六图九宫格布局
@@ -20,7 +22,7 @@
 git clone https://github.com/mengyue1952/nine-grid-popout.git "$HOME/.codex/skills/nine-grid-popout"
 ```
 
-也可以从 Releases 下载 `nine-grid-popout.skill` 安装包。
+也可以直接下载仓库中的 [`release/nine-grid-popout.skill`](release/nine-grid-popout.skill) 安装包。
 
 ## 使用
 
