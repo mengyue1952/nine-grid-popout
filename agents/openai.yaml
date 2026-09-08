@@ -1,0 +1,6 @@
+interface:
+  display_name: "九宫格突破人像"
+  short_description: "用六张照片制作人物突破边框的九宫格合成图片"
+  default_prompt: "使用 $nine-grid-popout 处理我上传的六张照片，默认将人物抠像放大至120%，生成突破九宫格人像合成图。"
+policy:
+  allow_implicit_invocation: true
